@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="0@localhost">
+  <database-model serializer="dbm" dbms="REDIS" family-id="REDIS" format-version="4.52">
+    <root id="1">
+      <ServerVersion>3.0.504</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="0">
+      <Current>1</Current>
+    </schema>
+    <schema id="3" parent="1" name="1"/>
+    <schema id="4" parent="1" name="2"/>
+    <schema id="5" parent="1" name="3"/>
+    <schema id="6" parent="1" name="4"/>
+    <schema id="7" parent="1" name="5"/>
+    <schema id="8" parent="1" name="6"/>
+    <schema id="9" parent="1" name="7"/>
+    <schema id="10" parent="1" name="8"/>
+    <schema id="11" parent="1" name="9"/>
+    <schema id="12" parent="1" name="10"/>
+    <schema id="13" parent="1" name="11"/>
+    <schema id="14" parent="1" name="12"/>
+    <schema id="15" parent="1" name="13"/>
+    <schema id="16" parent="1" name="14"/>
+    <schema id="17" parent="1" name="15"/>
+    <collection id="18" parent="2" name="otp"/>
+    <collection id="19" parent="2" name="otp:84382961560"/>
+    <collection id="20" parent="2" name="otp:84982573860"/>
+    <collection id="21" parent="2" name="register_user"/>
+    <collection id="22" parent="2" name="register_user:1a792709-02a6-40ca-b8c1-a741b1d0919f"/>
+    <collection id="23" parent="2" name="register_user:2aeb2745-ac83-4dfb-ae9e-d3573f96a567"/>
+    <collection id="24" parent="2" name="register_user:302ea813-24a5-413e-803f-36f6a2929f0b"/>
+    <collection id="25" parent="2" name="register_user:b9d791e2-9a32-4d9f-8ed9-1f2e999f0964"/>
+    <collection id="26" parent="2" name="register_user:c5182c0c-54ca-4129-a8ba-200f5b70c118"/>
+    <collection id="27" parent="2" name="register_user:c6bc6b6a-2b3b-4917-ba90-c4b4ee0555c2"/>
+    <collection id="28" parent="2" name="register_user:d238a737-b2ea-47aa-9ddf-7bd995f54f2a"/>
+  </database-model>
+</dataSource>
