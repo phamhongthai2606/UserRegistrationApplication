@@ -16,7 +16,7 @@ public class PhoneNumberUtils {
         //0982573860
         //84982573860
 
-        if (phoneNumber.length() < 10 || phoneNumber.length() > 13) {
+        if (phoneNumber.length() < 10 || phoneNumber.length() > 11) {
             throw new ApplicationException(ERROR_CODE.INVALID_PARAMETER , "phoneNumber is invalid");
         }
         // check prefix
